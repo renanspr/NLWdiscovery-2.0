@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+O Proffy é uma plataforma de estudos que ajuda pessoas a encontrarem professores online. Foi feito utilizando os conteúdos disponibilizados pela RocketSeat na semana Next Level Week 2.0 (NLW2).
 
 ## 🔖 Layout
 
