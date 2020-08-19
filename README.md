@@ -2,9 +2,9 @@
   <img alt="Proffy" src="github/proffy.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML5
 - CSS3
@@ -14,14 +14,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Proffy é uma plataforma de estudos que ajuda pessoas a encontrarem professores online. Foi feito utilizando os conteúdos disponibilizados pela RocketSeat na semana Next Level Week 2.0 (NLW2).
+Proffy is an online study platform that connects students and teachers. Was done using the content made available by RocketSeat in the Next Level Week 2.0 (NLW2).
 
 ## 🔖 Layout
 
-No link abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+In the link below you will find the layout of the web project. Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 - [Layout](https://www.figma.com/file/86B65osMPLWc5oULL2LZHt/Proffy_Web?node-id=0%3A1)
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
